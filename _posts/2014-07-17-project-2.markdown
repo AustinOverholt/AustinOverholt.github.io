@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2017-10
+date: 2017-10-01
 img: CodeQuiz.png
 alt: CodeQuiz
 project-date: October 2017
