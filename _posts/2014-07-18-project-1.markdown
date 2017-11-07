@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2017
 img: SocialMediaGrader.png
 alt: Social Media Grader
 project-date: April 2017
 client: Memeni
 category: Web Development
-description: Social Media Grader is a way for businesses to grade their social media accounts and find out ways to improve 
+description: Social Media Grader is a way for businesses to grade their social media accounts and find out ways to improve. 
 
 ---
