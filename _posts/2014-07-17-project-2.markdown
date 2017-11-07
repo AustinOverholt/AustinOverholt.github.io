@@ -7,6 +7,6 @@ alt: CodeQuiz
 project-date: October 2017
 client: 
 category: Web Development
-description: CodeQuiz is a web application for developers to create quizzes and test their knowledge.
+description: <a href="codequiz.azurewebsites.net">CodeQuiz</a> is a web application for developers to create quizzes and test their knowledge.
 
 ---

@@ -7,6 +7,6 @@ alt: Social Media Grader
 project-date: April 2017
 client: Memeni
 category: Web Development
-description: Social Media Grader is a way for businesses to grade their social media accounts and find out ways to improve. 
+description: <a href="https://socialgrading.azurewebsites.net">Social Media Grader</a> is a way for businesses to grade their social media accounts and find out ways to improve. 
 
 ---
