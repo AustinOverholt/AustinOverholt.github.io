@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2017-10-01
+img: Nfte.png
+alt: Nfte
+project-date: October 2017
+client: Nfte
+category: Web Development
+description: This is a project for the hacking for humanity hackathon. The application was designed to be a way for NFTE to have their users and employees have more communication amongst each other.
+
+---
