@@ -5,7 +5,7 @@ date: 2017-10-01
 img: CodeQuiz.png
 alt: CodeQuiz
 project-date: October 2017
-client: 
+client: None
 category: Web Development
 description: <a href="http://codequiz.azurewebsites.net">CodeQuiz</a> is a web application for developers to create quizzes and test their knowledge.
 
