@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\img",
+    "\\img\\portfolio",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_posts\\2014-07-18-project-3.markdown",
   "PreviewInSolutionExplorer": false
 }

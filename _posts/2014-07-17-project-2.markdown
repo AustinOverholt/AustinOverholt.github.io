@@ -7,6 +7,6 @@ alt: CodeQuiz
 project-date: October 2017
 client: None
 category: Web Development
-description: <a href="http://codequiz.azurewebsites.net">CodeQuiz</a> is a web application for developers to create quizzes and test their knowledge.
+description: <a href="https://github.com/AustinOverholt/CodeQuiz">CodeQuiz</a> is a web application for developers to create quizzes and test their knowledge.
 
 ---

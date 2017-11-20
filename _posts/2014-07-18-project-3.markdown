@@ -7,6 +7,6 @@ alt: Nfte
 project-date: September 2017
 client: Nfte
 category: Web Development
-description: This is a project for the hacking for humanity hackathon. The application was designed to be a way for NFTE to have their users and employees have more communication amongst each other.
+description: <a href="https://github.com/AustinOverholt/NfteHack">NFTE Hack</a>This is a project for the hacking for humanity hackathon. The application was designed to be a way for NFTE to have their users and employees have more communication amongst each other.
 
 ---
