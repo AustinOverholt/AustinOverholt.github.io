@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-11-28
-img: Wing.png
+img: Wing2.png
 alt: Wing
 project-date: November 2017
 client: LA Auto Show
