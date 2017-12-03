@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-11-28
+img: Wing.png
+alt: Wing
+project-date: November 2017
+client: LA Auto Show
+category: Web Development
+description: <a href="https://github.com/AustinOverholt/wing">Wing</a> is a project for the Automobility Hackathon for the LA Auto Show. The application was developed to solve multiple transportation issues in Los Angeles during large events.
+
+---
